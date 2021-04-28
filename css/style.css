@@ -1219,38 +1219,5 @@ input[type="text"] {
   font-size:14px !important;
 }
 
-.highlight-yellow {
-  background-color: rgb(251,243,219) !important;
-  line-height: 1.5;
-}
-
-.highlight-orange {
-  background-color: rgb(250,235,221) !important;
-  line-height: 1.5;
-}
-
-.bold {
-  font-weight: 600 !important;
-}
-
-#fh5co-intro {
-  width: 80%;
-  margin-left: 15%;
-}
-
-#fh5co-portfolio {
-  width: 70%;
-  margin-left: 15%;
-}
-
-#fh5co-portfolio img {
-  width: 90% !important;
-  margin-left: 5% !important;
-}
-
-#fh5co-portfolio img.half {
-  width: 48% !important;
-  margin-left: 1% !important;
-}
 
 /*# sourceMappingURL=style.css.map */
